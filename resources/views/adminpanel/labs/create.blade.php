@@ -310,5 +310,5 @@ $(document).ready(function(){
 
       }
     </script>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD9RHZgUXffbQmvczfgC8CeNKfm6IYMAJQ&libraries=places&callback=initMap" async defer></script>
+<script src="https://maps.googleapis.com/maps/api/js?key= " async defer></script>
 @endsection
